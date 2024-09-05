@@ -1,0 +1,244 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "ano": 2021,
+            "cor": "Prata",
+            "placa": "ABC1D23"
+        },
+        {
+            "id": 2,
+            "marca": "Honda",
+            "modelo": "Civic",
+            "ano": 2020,
+            "cor": "Preto",
+            "placa": "DEF4G56"
+        },
+        {
+            "id": 3,
+            "marca": "Ford",
+            "modelo": "Fiesta",
+            "ano": 2019,
+            "cor": "Vermelho",
+            "placa": "GHI7J89"
+        },
+        {
+            "id": 4,
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": 2022,
+            "cor": "Branco",
+            "placa": "JKL0M12"
+        },
+        {
+            "id": 5,
+            "marca": "Hyundai",
+            "modelo": "HB20",
+            "ano": 2018,
+            "cor": "Azul",
+            "placa": "MNO3P45"
+        },
+        {
+            "id": 6,
+            "marca": "Nissan",
+            "modelo": "Sentra",
+            "ano": 2021,
+            "cor": "Cinza",
+            "placa": "PQR6S78"
+        },
+        {
+            "id": 7,
+            "marca": "Volkswagen",
+            "modelo": "Gol",
+            "ano": 2020,
+            "cor": "Verde",
+            "placa": "STU9V01"
+        },
+        {
+            "id": 8,
+            "marca": "Renault",
+            "modelo": "Sandero",
+            "ano": 2022,
+            "cor": "Amarelo",
+            "placa": "VWX2Y34"
+        },
+        {
+            "id": 9,
+            "marca": "Fiat",
+            "modelo": "Uno",
+            "ano": 2019,
+            "cor": "Laranja",
+            "placa": "YZA5B67"
+        },
+        {
+            "id": 10,
+            "marca": "Jeep",
+            "modelo": "Compass",
+            "ano": 2023,
+            "cor": "Marrom",
+            "placa": "BCD8E90"
+        },
+        {
+            "id": 11,
+            "marca": "Kia",
+            "modelo": "Seltos",
+            "ano": 2021,
+            "cor": "Rosa",
+            "placa": "DEF1G23"
+        },
+        {
+            "id": 12,
+            "marca": "Peugeot",
+            "modelo": "208",
+            "ano": 2020,
+            "cor": "Roxo",
+            "placa": "GHI4J56"
+        },
+        {
+            "id": 13,
+            "marca": "Audi",
+            "modelo": "A3",
+            "ano": 2022,
+            "cor": "Prata",
+            "placa": "JKL7M89"
+        },
+        {
+            "id": 14,
+            "marca": "BMW",
+            "modelo": "320i",
+            "ano": 2023,
+            "cor": "Preto",
+            "placa": "MNO0P12"
+        },
+        {
+            "id": 15,
+            "marca": "Mercedes-Benz",
+            "modelo": "C-Class",
+            "ano": 2021,
+            "cor": "Branco",
+            "placa": "PQR3S45"
+        },
+        {
+            "id": 16,
+            "marca": "Volvo",
+            "modelo": "XC60",
+            "ano": 2022,
+            "cor": "Cinza",
+            "placa": "STU6V78"
+        },
+        {
+            "id": 17,
+            "marca": "Land Rover",
+            "modelo": "Discovery",
+            "ano": 2021,
+            "cor": "Verde",
+            "placa": "VWX9Y01"
+        },
+        {
+            "id": 18,
+            "marca": "Porsche",
+            "modelo": "Macan",
+            "ano": 2023,
+            "cor": "Azul",
+            "placa": "YZA2B34"
+        },
+        {
+            "id": 19,
+            "marca": "Jaguar",
+            "modelo": "F-Pace",
+            "ano": 2020,
+            "cor": "Vermelho",
+            "placa": "BCD5E67"
+        },
+        {
+            "id": 20,
+            "marca": "Lexus",
+            "modelo": "RX",
+            "ano": 2021,
+            "cor": "Marrom",
+            "placa": "DEF8G90"
+        },
+        {
+            "id": 21,
+            "marca": "Subaru",
+            "modelo": "Outback",
+            "ano": 2022,
+            "cor": "Laranja",
+            "placa": "GHI1J23"
+        },
+        {
+            "id": 22,
+            "marca": "Mazda",
+            "modelo": "CX-5",
+            "ano": 2021,
+            "cor": "Amarelo",
+            "placa": "JKL4M56"
+        },
+        {
+            "id": 23,
+            "marca": "Mitsubishi",
+            "modelo": "Outlander",
+            "ano": 2020,
+            "cor": "Rosa",
+            "placa": "MNO7P89"
+        },
+        {
+            "id": 24,
+            "marca": "Chrysler",
+            "modelo": "300",
+            "ano": 2023,
+            "cor": "Roxo",
+            "placa": "PQR0S12"
+        },
+        {
+            "id": 25,
+            "marca": "Buick",
+            "modelo": "Enclave",
+            "ano": 2022,
+            "cor": "Prata",
+            "placa": "STU3V45"
+        },
+        {
+            "id": 26,
+            "marca": "Cadillac",
+            "modelo": "XT5",
+            "ano": 2021,
+            "cor": "Preto",
+            "placa": "VWX6Y78"
+        },
+        {
+            "id": 27,
+            "marca": "GMC",
+            "modelo": "Terrain",
+            "ano": 2020,
+            "cor": "Branco",
+            "placa": "YZA9B01"
+        },
+        {
+            "id": 28,
+            "marca": "Infiniti",
+            "modelo": "QX50",
+            "ano": 2022,
+            "cor": "Cinza",
+            "placa": "BCD2E34"
+        },
+        {
+            "id": 29,
+            "marca": "Genesis",
+            "modelo": "GV80",
+            "ano": 2023,
+            "cor": "Verde",
+            "placa": "DEF5G67"
+        },
+        {
+            "id": 30,
+            "marca": "Alfa Romeo",
+            "modelo": "Stelvio",
+            "ano": 2021,
+            "cor": "Azul",
+            "placa": "GHI8J90"
+        }
+    ]
+}
